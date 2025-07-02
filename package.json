@@ -28,5 +28,8 @@
     "gulp-terser": "^2.1.0",
     "gulp-ttf2woff2": "^5.0.0",
     "sass": "^1.89.2"
+  },
+  "dependencies": {
+    "fs-extra": "^11.3.0"
   }
 }
